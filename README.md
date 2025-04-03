@@ -37,7 +37,7 @@ Also you can clone the repository or [download the zip file](https://github.com/
 
 ## Setup
 
-Add the CSS file to your project and add the link to the file:
+Add the CSS files to your project and add the link to the file:
 
 ```html
 <link rel="stylesheet" href="path/to/css-loader.css">
